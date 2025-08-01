@@ -1,10 +1,12 @@
 #Google Cybersecurity Professional Certificate Validation Link
 
+[https://coursera.org/share/bb6cde36a0d388e48a958005952c761d](https://www.coursera.org/account/accomplishments/professional-cert/PKUA21YWJUDL)
+
 https://www.credly.com/badges/ce241271-4793-42e0-aa89-369f86fca698/public_url
 
 #Google AI Essentials Certificate Validation Link
 
-https://www.credly.com/badges/28d97167-19fb-434d-992b-20712c173cee/public_url
+(https://www.coursera.org/account/accomplishments/verify/OU8DZ8GDNTLT)
 
 #Comptia Security+ Validation Link
 
