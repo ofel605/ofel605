@@ -14,6 +14,8 @@ https://www.credly.com/badges/8c088516-18ba-4857-a46e-f9bc64e80d40/public_url
 
 #TryHackme SOC level 1 Validation Link
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ofel.png" alt="Your Image Badge" />
+
 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7OZCQJIZZ2.pdf
 
 #ISC2 Candidate Badge Validation Link
