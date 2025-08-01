@@ -1,2 +1,1 @@
-## Hi there 👋
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9324ab0c-e218-42e4-9b45-d061e3d6edf4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
