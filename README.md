@@ -1,2 +1,2 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9324ab0c-e218-42e4-9b45-d061e3d6edf4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c088516-18ba-4857-a46e-f9bc64e80d40" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+https://www.credly.com/badges/8c088516-18ba-4857-a46e-f9bc64e80d40/public_url
